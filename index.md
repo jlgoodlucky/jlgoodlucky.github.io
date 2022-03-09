@@ -1,4 +1,4 @@
-## Welcome to HashTag for tiktok
+## HashTag for tiktok
 
 Too lazy to search the best tags for your medias?
 
